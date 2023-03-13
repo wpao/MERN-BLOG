@@ -1,6 +1,6 @@
 import React from 'react'
 import './blogItem.scss'
-import { LoginBg } from '../../../assets'
+// import { LoginBg } from '../../../assets'
 import { Button } from '../../atoms'
 import { useHistory } from 'react-router-dom'
 
